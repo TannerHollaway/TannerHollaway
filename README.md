@@ -2,7 +2,7 @@
 
 <h2>Personal Projects:</h2>
 
-- <b>[Creating an Active Directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Creating an Active Directory home lab](https://github.com/TannerHollaway/ActiveDirectoryLab)</b>
   
 - <b>[ExampleName](ExampleLink)</b>
 
