@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1>Hi, I'm Tanner. This is where you can view all of my personal projects and achievments.
 
-<!--
-**TannerHollaway/TannerHollaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Personal Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>[Creating an Active Directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+  
+- <b>[ExampleName](ExampleLink)</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+<h2>Coursera certificates:</h2>
+
+- <b>[ISC2 Certified In Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/6KL3P63V43AD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)</b>
+- <b>[Google Cybersecurity Certificate](https://coursera.org/share/af35d9bb6d110b27af8ecb5c22683392)</b>
+
+
+
+
+
+
+
+
+
+<h2>Exmaple Header:</h2>
