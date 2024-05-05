@@ -1,4 +1,9 @@
-<h1>Hi, I'm Tanner. This is where you can view all of my personal projects and achievments.
+<h1>Hi, I'm Tanner. This is where you can view all of my personal projects, labs, and achievments.
+
+<h2>Cisco Related Labs:</h2>
+
+- <b>[ExampleName](ExampleLink)</b>
+
 
 <h2>Personal Projects:</h2>
 
