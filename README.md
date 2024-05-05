@@ -1,15 +1,15 @@
 <h1>Hi, I'm Tanner. This is where you can view all of my personal projects, labs, and achievments.
 
-<h2>Cisco Related Labs:</h2>
-
-- <b>[ExampleName](ExampleLink)</b>
-
 
 <h2>Personal Projects:</h2>
 
 - <b>[Creating an Active Directory home lab](https://github.com/TannerHollaway/ActiveDirectoryLab)</b>
   
 - <b>[Creating a Web Scraper](https://github.com/TannerHollaway/Creating-A-Web-Scraper)</b>
+
+- <b>[ExampleName](ExampleLink)</b>
+
+<h2>Cisco Related achievements and badges:</h2>
 
 - <b>[ExampleName](ExampleLink)</b>
 
