@@ -9,9 +9,9 @@
 
 - <b>[ExampleName](ExampleLink)</b>
 
-<h2>Cisco Related achievements and badges:</h2>
+<h2>Cisco Related labs and badges:</h2>
 
-- <b>[ExampleName](ExampleLink)</b>
+- <b>[Configuring A Simple Home Network](https://github.com/TannerHollaway/CiscoPacketTracer)</b>
 
 
 
