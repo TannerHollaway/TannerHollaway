@@ -27,7 +27,7 @@
 
 - <b>[Configuring A Simple Home Network](https://github.com/TannerHollaway/CiscoPacketTracer)</b>
 
-- <b>[Cisco PTTA Logical and Physical mode exploration](ExampleLink)</b>
+- <b>[Cisco PTTA Logical and Physical mode exploration](https://github.com/TannerHollaway/CiscoPTTALogical-PhysicalMode)</b>
 
 
 
