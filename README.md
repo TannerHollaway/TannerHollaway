@@ -1,10 +1,10 @@
 <h1>Hi, I'm Tanner. This is where you can view all of my personal projects, labs, and achievments.
 
-<h2>Future Projects/WiPs:</h2>
+<h2>Future Projects Planned:</h2>
 
-- <b>[This Is where you can find my Future Projects or Works In Progress](https://github.com/TannerHollaway/WiPs-futureprojects/tree/main)</b>
+- <b>[This Is where you can find my Future Projects that I have planned](https://github.com/TannerHollaway/WiPs-futureprojects/tree/main)</b>
 
-<h2>Personal Projects:</h2>
+<h2>Completed Projects:</h2>
 
 - <b>[Creating an Active Directory home lab](https://github.com/TannerHollaway/ActiveDirectoryLab)</b>
   
