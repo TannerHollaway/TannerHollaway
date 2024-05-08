@@ -1,7 +1,8 @@
 <h1>Hi, I'm Tanner. This is where you can view all of my personal projects, labs, and achievments.
 
 <h2>Future Projects/WiPs:</h2>
-- <b>[ExampleName](ExampleLink)</b>
+
+- <b>[This Is where you can find my Future Projects or Works In Progress](https://github.com/TannerHollaway/WiPs-futureprojects/tree/main)</b>
 
 <h2>Personal Projects:</h2>
 
