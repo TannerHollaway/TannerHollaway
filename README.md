@@ -8,7 +8,7 @@
 
 - <b>[Creating an Active Directory home lab](https://github.com/TannerHollaway/ActiveDirectoryLab)</b>
   
-- <b>[Creating a Web Scraper](https://github.com/TannerHollaway/Creating-A-Web-Scraper)</b>
+- <b>[Creating a Web Scraper Using Python](https://github.com/TannerHollaway/Creating-A-Web-Scraper)</b>
 
 - <b>[ExampleName](ExampleLink)</b>
 
