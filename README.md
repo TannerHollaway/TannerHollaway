@@ -12,6 +12,8 @@
 
 - <b>[Creating a python program to check time and location to prevent unauthorized logins](https://github.com/TannerHollaway/PythonLogin-LocationChecker)</b>
 
+- <b>[Creating a python program to check password strength based on OWASP standards](https://github.com/TannerHollaway/OWASP-PasswordChecker)</b>
+
 
 
 
