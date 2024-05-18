@@ -8,7 +8,7 @@
 
 - <b>[Creating an Active Directory home lab](https://github.com/TannerHollaway/ActiveDirectoryLab)</b>
 
-- <b>[Creating and using a port scanner to harden a network](Link)</b>
+- <b>[Creating and using a port scanner to harden a network](https://github.com/TannerHollaway/CreatingAndUsingAPortScanner)</b>
   
 - <b>[Creating a Web Scraper Using Python](https://github.com/TannerHollaway/Creating-A-Web-Scraper)</b>
 
