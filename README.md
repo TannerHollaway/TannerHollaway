@@ -31,9 +31,9 @@ Some examples of my completed certifications are:
 
 
 
-<h2>Cisco Related labs and badges:</h2>
+<h2>Networking Related labs and badges:</h2>
 
-- <b>[Configuring A Simple Home Network](https://github.com/TannerHollaway/CiscoPacketTracer)</b>
+- <b>[Configuring A Simple Home Network Using Cisco Packet Tracer](https://github.com/TannerHollaway/CiscoPacketTracer)</b>
 
 - <b>[Cisco PTTA Logical and Physical mode exploration](https://github.com/TannerHollaway/CiscoPTTALogical-PhysicalMode)</b>
 
