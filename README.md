@@ -4,7 +4,7 @@
 
 - <b>[This Is where you can find my Future Projects that I have planned](https://github.com/TannerHollaway/WiPs-futureprojects/tree/main)</b>
 
-<h2>Completed Projects:</h2>
+<h2>Here you can view my Completed Projects:</h2>
 
 - <b>[Creating an Active Directory home lab](https://github.com/TannerHollaway/ActiveDirectoryLab)</b>
 
@@ -26,7 +26,7 @@
 
 
 
-<h2>Coursera certificates:</h2>
+<h2>Here you can view my Coursera certificates:</h2>
 
 - <b>[ISC2 Certified In Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/6KL3P63V43AD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)</b>
 - <b>[Google Cybersecurity Certificate](https://coursera.org/share/af35d9bb6d110b27af8ecb5c22683392)</b>
