@@ -22,7 +22,7 @@ Some examples of my completed projects are:
 
 
 
-# You can find all my coursera certifications [here](https://github.com/TannerHollaway/CourseraCertifications).
+# You can find all my certifications [here](https://github.com/TannerHollaway/CourseraCertifications).
 
 Some examples of my completed certifications are:
 
