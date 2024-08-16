@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tanner. This is where you can view all of my personal projects, labs, and achievments.
+<h1>Hi, I'm Tanner. This is where you can view all of my personal projects, labs, and achievments. (Work in progress)
 
 <h2>Future Projects Planned:</h2>
 
