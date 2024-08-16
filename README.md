@@ -8,7 +8,7 @@
 
 Some examples of my completed projects are:
 
-- <b>[Creating and using a port scanner to harden a network](https://github.com/TannerHollaway/CreatingAndUsingAPortScanner)</b>
+- <b>[Creating a honeynet in Azure, practising incident response and remediation](https://github.com/TannerHollaway/AzureSentinel)</b>
   
 - <b>[Creating a Web Scraper Using Python and gathering information from a website](https://github.com/TannerHollaway/Creating-A-Web-Scraper)</b>
 
