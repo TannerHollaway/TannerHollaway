@@ -1,8 +1,5 @@
 <h1>Hi, I'm Tanner. This is where you can view all of my personal projects, labs, and achievments. (Work in progress)
 
-<h2>Future Projects Planned:</h2>
-
-- <b>[This Is where you can find my Future Projects that I have planned](https://github.com/TannerHollaway/WiPs-futureprojects/tree/main)</b>
 
 # You can find all my completed projects [here](https://github.com/TannerHollaway/CompletedProjects).
 
@@ -42,8 +39,3 @@ Some examples of my completed certifications are:
 
 
 
-
-
-
-
-<h2>Exmaple Header:</h2>
