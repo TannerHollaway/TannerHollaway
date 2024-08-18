@@ -28,14 +28,3 @@ Some examples of my completed certifications are:
 - <b>[Google Cybersecurity Certificate](https://www.credly.com/badges/2f1759b5-7e4d-4ca3-a767-df036758e3f6/public_url)</b>
 
 
-
-<h2>Networking Related labs and badges:</h2>
-
-- <b>[Configuring A Simple Home Network Using Cisco Packet Tracer](https://github.com/TannerHollaway/CiscoPacketTracer)</b>
-
-- <b>[Cisco PTTA Logical and Physical mode exploration](https://github.com/TannerHollaway/CiscoPTTALogical-PhysicalMode)</b>
-
-
-
-
-
