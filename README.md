@@ -7,7 +7,7 @@ Some examples of my completed projects are:
 
 - <b>[Creating a honeynet in Azure, practising incident response and remediation](https://github.com/TannerHollaway/AzureSentinel)</b>
   
-- <b>[Creating insecure Virtual Machines in Microsoft Azure](https://github.com/TannerHollaway/VirtualMachineCreation)
+- <b>[Securing the honeynet using NIST800-53 and Microsoft Defender for Cloud recommendations](https://github.com/TannerHollaway/Becoming-NIST-80053-compliant)
 
 - <b>[Practising incident response in Microsoft Azure](https://github.com/TannerHollaway/Incident-Response)
 
