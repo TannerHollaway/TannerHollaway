@@ -7,9 +7,9 @@ Some examples of my completed projects are:
 
 - <b>[Creating a honeynet in Azure, practising incident response and remediation](https://github.com/TannerHollaway/AzureSentinel)</b>
   
-- <b>[Creating a Web Scraper Using Python and gathering information from a website](https://github.com/TannerHollaway/Creating-A-Web-Scraper)</b>
+- <b>[Creating insecure Virtual Machines in Microsoft Azure](https://github.com/TannerHollaway/VirtualMachineCreation)
 
-- <b>[Creating a python program to check time and location to prevent unauthorized logins](https://github.com/TannerHollaway/PythonLogin-LocationChecker)</b>
+- <b>[Practising incident response in Microsoft Azure](https://github.com/TannerHollaway/Incident-Response)
 
 
 
