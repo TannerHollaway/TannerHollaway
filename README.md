@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tanner. This is where you can view all of my personal projects, labs, and achievments. (Work in progress)
 
 
-# You can find all my completed projects [here](https://github.com/TannerHollaway/CompletedProjects).
+# You can find all my completed Cybersecurity projects [here](https://github.com/TannerHollaway/CompletedProjects).
 
 Some examples of my completed projects are:
 
