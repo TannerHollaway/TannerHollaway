@@ -9,6 +9,7 @@ Some examples of my completed projects are:
 - [Creating a honeynet in Azure, practicing incident response and remediation](https://github.com/TannerHollaway/AzureSentinel)
 - [Securing the honeynet using NIST 800-53 and Microsoft Defender for Cloud recommendations](https://github.com/TannerHollaway/Becoming-NIST-80053-compliant)
 - [Practicing incident response in Microsoft Azure](https://github.com/TannerHollaway/Incident-Response)
+- [Scanning and remidating vulrenabilities in my home networking using Nessus](link)
 
 ## You can find all my certifications [here](https://github.com/TannerHollaway/CourseraCertifications).
 
