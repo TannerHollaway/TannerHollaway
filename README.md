@@ -11,7 +11,7 @@ Some examples of my completed projects are:
 - [Practicing incident response in Microsoft Azure](https://github.com/TannerHollaway/Incident-Response)
 - [Network Vulnerability Assessments ](https://github.com/TannerHollaway/Networking-Vulrenability-Assessments)
 - [Setting up a REMnux docker inside of Kali](https://github.com/TannerHollaway/Setting-up-a-REMnux-Docker-inside-of-Kali)
-
+- [Setting up and using PFsense as a router and firewall](https://github.com/TannerHollaway/PFsense-Labs)
 ## You can find all my certifications [here](https://github.com/TannerHollaway/CourseraCertifications).
 
 Some examples of my completed certifications are:
