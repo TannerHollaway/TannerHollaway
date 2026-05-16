@@ -1,22 +1,61 @@
-# Hi, I'm Tanner.
+# Hi, I'm Tanner 👋
 
-This is where you can view all of my personal projects, labs, and achievements. (Work in progress)
+I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a long-term goal of moving into **malware analysis**. This is where I keep my labs, projects, and certs.
 
-## You can find all my completed Cybersecurity projects [here](https://github.com/TannerHollaway/CompletedProjects).
+**Currently open to SOC Analyst opportunities (remote or Texas-based).**
 
-Some examples of my completed projects are:
+---
 
-- [Creating a honeynet in Azure, practicing incident response and remediation](https://github.com/TannerHollaway/AzureSentinel)
-- [Securing the honeynet using NIST 800-53 and Microsoft Defender for Cloud recommendations](https://github.com/TannerHollaway/Becoming-NIST-80053-compliant)
-- [Practicing incident response in Microsoft Azure](https://github.com/TannerHollaway/Incident-Response)
-- [Network Vulnerability Assessments ](https://github.com/TannerHollaway/Networking-Vulrenability-Assessments)
-- [Setting up a REMnux docker inside of Kali](https://github.com/TannerHollaway/Setting-up-a-REMnux-Docker-inside-of-Kali)
-- [Setting up and using PFsense as a router and firewall](https://github.com/TannerHollaway/PFsense-Labs)
-## You can find all my certifications [here](https://github.com/TannerHollaway/CourseraCertifications).
+## 🎯 Where I'm At
 
-Some examples of my completed certifications are:
+- 🛡️ **Certified:** CompTIA Network+, CompTIA Security+, ISC2 CC, Google Cybersecurity Certificate
+- 📚 **In progress:** CompTIA CySA+
+- 🔬 **Building toward:** BTL1 → GREM (malware analysis track)
 
-- [CompTIA Network+](https://www.credly.com/badges/08cc7d5e-2527-4f83-b2ae-4bb29471d6cc/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/a16c5c4f-520a-4b38-8507-d6ea522cb425)
-- [ISC2 Certified in Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/6KL3P63V43AD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
-- [Google Cybersecurity Certificate](https://www.credly.com/badges/2f1759b5-7e4d-4ca3-a767-df036758e3f6/public_url)
+---
+
+## 🧪 Featured Projects
+
+### [Azure Honeynet & SIEM](https://github.com/TannerHollaway/AzureSentinel)
+Built a deliberately vulnerable Azure environment, attracted live attacks from the internet, and used Microsoft Sentinel to map and investigate them.
+
+### [NIST 800-53 Hardening](https://github.com/TannerHollaway/Becoming-NIST-80053-compliant)
+Took the honeynet from wide-open to compliant by applying NIST 800-53 controls and Microsoft Defender for Cloud recommendations. Measured the before/after.
+
+### [Incident Response in Azure](https://github.com/TannerHollaway/Incident-Response)
+Practiced full IR workflow — detection, triage, containment, eradication — using Sentinel alerts as the trigger.
+
+### [Active Directory Lab](https://github.com/TannerHollaway/ActiveDirectoryLab)
+Stood up a full AD environment from scratch. Domain controllers, users, group policy, the works.
+
+### [Hybrid Malware Analysis Lab](https://github.com/TannerHollaway/CompletedProjects) *(coming soon)*
+REMnux Docker container running inside a Kali Linux VM for isolated malware static/dynamic analysis. Includes FlareVM setup for Windows-side static analysis.
+
+➡️ **All completed projects:** [CompletedProjects repo](https://github.com/TannerHollaway/CompletedProjects)
+
+---
+
+## 🛠️ Tools & Skills
+
+**SIEM / Detection:** Microsoft Sentinel, Windows Event Logs, KQL  
+**Analysis:** REMnux, FlareVM, phishing email triage, PowerShell payload decoding  
+**Scripting:** Python (automation, scraping, login controls)  
+**Cloud:** Microsoft Azure, NIST 800-53 compliance  
+**Frameworks:** MITRE ATT&CK, NIST 800-53
+
+---
+
+## 📜 Certifications
+
+[![Sec+](https://img.shields.io/badge/CompTIA-Security%2B-red)](https://www.credly.com/badges/a16c5c4f-520a-4b38-8507-d6ea522cb425)
+[![Net+](https://img.shields.io/badge/CompTIA-Network%2B-orange)](https://www.credly.com/badges/08cc7d5e-2527-4f83-b2ae-4bb29471d6cc/public_url)
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-blue)](https://www.coursera.org/account/accomplishments/specialization/6KL3P63V43AD)
+[![Google](https://img.shields.io/badge/Google-Cybersecurity%20Cert-yellow)](https://www.credly.com/badges/2f1759b5-7e4d-4ca3-a767-df036758e3f6/public_url)
+
+Full cert list: [CourseraCertifications](https://github.com/TannerHollaway/CourseraCertifications)
+
+---
+
+## 📫 Reach Out
+
+If you're hiring for a SOC role or just want to talk shop about malware analysis, AD, or Azure — feel free to connect.
