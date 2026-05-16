@@ -1,4 +1,4 @@
-# Hi, I'm Tanner 👋
+# Hi, I'm Dakota 👋
 
 I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a long-term goal of moving into **malware analysis**. This is where I keep my labs, projects, and certs.
 
@@ -6,15 +6,15 @@ I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a l
 
 ---
 
-## 🎯 Where I'm At
+##  Where I'm At
 
-- 🛡️ **Certified:** CompTIA Network+, CompTIA Security+, ISC2 CC, Google Cybersecurity Certificate
-- 📚 **In progress:** CompTIA CySA+
-- 🔬 **Building toward:** BTL1 → GREM (malware analysis track)
+-  **Certified:** CompTIA Network+, CompTIA Security+, ISC2 CC, Google Cybersecurity Certificate
+-  **In progress:** CompTIA CySA+
+-  **Building toward:** BTL1 → GREM (malware analysis track)
 
 ---
 
-## 🧪 Featured Projects
+##  Featured Projects
 
 ### [Azure Honeynet & SIEM](https://github.com/TannerHollaway/AzureSentinel)
 Built a deliberately vulnerable Azure environment, attracted live attacks from the internet, and used Microsoft Sentinel to map and investigate them.
@@ -31,11 +31,11 @@ Stood up a full AD environment from scratch. Domain controllers, users, group po
 ### [Hybrid Malware Analysis Lab](https://github.com/TannerHollaway/CompletedProjects) *(coming soon)*
 REMnux Docker container running inside a Kali Linux VM for isolated malware static/dynamic analysis. Includes FlareVM setup for Windows-side static analysis.
 
-➡️ **All completed projects:** [CompletedProjects repo](https://github.com/TannerHollaway/CompletedProjects)
+ **All completed projects:** [CompletedProjects repo](https://github.com/TannerHollaway/CompletedProjects)
 
 ---
 
-## 🛠️ Tools & Skills
+##  Tools & Skills
 
 **SIEM / Detection:** Microsoft Sentinel, Windows Event Logs, KQL  
 **Analysis:** REMnux, FlareVM, phishing email triage, PowerShell payload decoding  
@@ -45,7 +45,7 @@ REMnux Docker container running inside a Kali Linux VM for isolated malware stat
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 [![Sec+](https://img.shields.io/badge/CompTIA-Security%2B-red)](https://www.credly.com/badges/a16c5c4f-520a-4b38-8507-d6ea522cb425)
 [![Net+](https://img.shields.io/badge/CompTIA-Network%2B-orange)](https://www.credly.com/badges/08cc7d5e-2527-4f83-b2ae-4bb29471d6cc/public_url)
