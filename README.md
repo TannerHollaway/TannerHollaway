@@ -16,6 +16,9 @@ I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a l
 
 ##  Featured Projects
 
+### [Help Desk Labs](https://github.com/TannerHollaway/TBD)
+Using servicedesk-simulator to practise responding to tickets and respond to incidents. 
+
 ### [Azure Honeynet & SIEM](https://github.com/TannerHollaway/AzureSentinel)
 Built a deliberately vulnerable Azure environment, attracted live attacks from the internet, and used Microsoft Sentinel to map and investigate them.
 
