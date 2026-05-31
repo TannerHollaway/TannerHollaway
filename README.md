@@ -16,6 +16,8 @@ I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a l
 
 ##  Featured Projects
 
+###[My Home lab WIP](https://github.com/TannerHollaway/MyHomeLab)
+
 ### [Help Desk Labs](https://github.com/TannerHollaway/HelpDeskLabs)
 Using servicedesk-simulator to practise responding to tickets and respond to incidents. 
 
