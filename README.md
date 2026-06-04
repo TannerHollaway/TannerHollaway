@@ -1,4 +1,4 @@
-# Hi, I'm Dakota 👋
+# Hi, I'm Dakota, or Tanner 👋
 
 I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a long-term goal of moving into **malware analysis**. This is where I keep my labs, projects, and certs.
 
