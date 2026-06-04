@@ -18,6 +18,8 @@ I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a l
 
 ### [My Home lab WIP](https://github.com/TannerHollaway/MyHomeLab)
 
+Replacing my home router with opnsense, setting up multiple VLANs, setting up an AD domain. 
+
 ### [Help Desk Labs](https://github.com/TannerHollaway/HelpDeskLabs)
 Using servicedesk-simulator to practise responding to tickets and respond to incidents. 
 
