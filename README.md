@@ -8,8 +8,7 @@ I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a l
 
 ##  Where I'm At
 
--  **Certified:** CompTIA Network+, CompTIA Security+, ISC2 CC, Google Cybersecurity Certificate
--  **In progress:** CompTIA CySA+
+-  **Certified:** CompTIA Network+, CompTIA Security+, CompTIA CySa+, ISC2 CC, Google Cybersecurity Certificate
 -  **Building toward:** BTL1 → GREM (malware analysis track)
 
 ---
