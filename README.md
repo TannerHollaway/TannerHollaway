@@ -8,7 +8,7 @@ I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a l
 
 ##  Where I'm At
 
--  **Certified:** CompTIA Network+, CompTIA Security+, CompTIA CySa+, ISC2 CC, Google Cybersecurity Certificate
+-  **Certified:** CompTIA Network+, CompTIA Security+, CompTIA CySa+
 -  **Currently studying for:** CISSP - Certified Information Systems Security Professional
 
 ---
