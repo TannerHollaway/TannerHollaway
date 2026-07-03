@@ -22,6 +22,9 @@ Replacing my home router with opnsense, setting up multiple VLANs, setting up an
 ### [Help Desk Labs](https://github.com/TannerHollaway/HelpDeskLabs)
 Using servicedesk-simulator to practise responding to tickets and respond to incidents. 
 
+### [BTLO Challenges](https://github.com/TannerHollaway/BTLO-Challenges)
+learning and reinforcing skills in BTLO 
+
 ### [Azure Honeynet & SIEM](https://github.com/TannerHollaway/AzureSentinel)
 Built a deliberately vulnerable Azure environment, attracted live attacks from the internet, and used Microsoft Sentinel to map and investigate them.
 
