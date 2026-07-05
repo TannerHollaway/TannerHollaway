@@ -59,7 +59,3 @@ Stood up a full AD environment from scratch. Domain controllers, users, group po
 Full cert list: [CourseraCertifications](https://github.com/TannerHollaway/CourseraCertifications)
 
 ---
-
-## 📫 Reach Out
-
-If you're hiring for a SOC role or just want to talk shop about malware analysis, AD, or Azure — feel free to connect.
