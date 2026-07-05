@@ -37,11 +37,6 @@ Practiced full IR workflow — detection, triage, containment, eradication — u
 ### [Active Directory Lab](https://github.com/TannerHollaway/ActiveDirectoryLab)
 Stood up a full AD environment from scratch. Domain controllers, users, group policy, the works.
 
-### [Hybrid Malware Analysis Lab](https://github.com/TannerHollaway/CompletedProjects) *(coming soon)*
-REMnux Docker container running inside a Kali Linux VM for isolated malware static/dynamic analysis. Includes FlareVM setup for Windows-side static analysis.
-
- **All completed projects:** [CompletedProjects repo](https://github.com/TannerHollaway/CompletedProjects)
-
 ---
 
 ##  Tools & Skills
