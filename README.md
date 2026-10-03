@@ -8,7 +8,7 @@ I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a l
 
 ##  Where I'm At
 
--  **Certified:** CompTIA Network+, CompTIA Security+, CompTIA CySa+, THM Sal1
+-  **Certified:** CompTIA Network+, CompTIA Security+, CompTIA CySa+, THM Sal 1, THM Sal 2
 -  **Currently studying for:** CISSP - Certified Information Systems Security Professional
 
 ---
@@ -54,8 +54,8 @@ Stood up a full AD environment from scratch. Domain controllers, users, group po
 [![Sec+](https://img.shields.io/badge/CompTIA-Security%2B-red)](https://www.credly.com/badges/a16c5c4f-520a-4b38-8507-d6ea522cb425)
 [![Net+](https://img.shields.io/badge/CompTIA-Network%2B-orange)](https://www.credly.com/badges/08cc7d5e-2527-4f83-b2ae-4bb29471d6cc/public_url)
 [![ISC2 CC](https://img.shields.io/badge/CompTIA-CySa+-blue)](https://www.credly.com/earner/earned/badge/fee74d29-2be5-4e92-9274-a83b6ed6ad75)
-[![Google](https://img.shields.io/badge/THM-SAL1-yellow)](https://www.credly.com/badges/abe26ddb-fdce-4d0e-81cb-304966ec1087/public_url)
-
+[![Sal1](https://img.shields.io/badge/THM-SAL1-yellow)](https://www.credly.com/badges/abe26ddb-fdce-4d0e-81cb-304966ec1087/public_url)
+[![Sal2](https://img.shields.io/badge/THM-SAL2-green)](https://tryhackme.com/certification/certificate/e1d6753b-c3ea-4047-94a7-58efd1a46db9)
 Full cert list: [CourseraCertifications](https://github.com/TannerHollaway/CourseraCertifications)
 
 ---
