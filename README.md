@@ -55,7 +55,7 @@ Stood up a full AD environment from scratch. Domain controllers, users, group po
 [![Net+](https://img.shields.io/badge/CompTIA-Network%2B-orange)](https://www.credly.com/badges/08cc7d5e-2527-4f83-b2ae-4bb29471d6cc/public_url)
 [![ISC2 CC](https://img.shields.io/badge/CompTIA-CySa+-blue)](https://www.credly.com/earner/earned/badge/fee74d29-2be5-4e92-9274-a83b6ed6ad75)
 [![Sal1](https://img.shields.io/badge/THM-SAL1-yellow)](https://www.credly.com/badges/abe26ddb-fdce-4d0e-81cb-304966ec1087/public_url)
-[![Sal2](https://img.shields.io/badge/THM-SAL2-green)](https://tryhackme.com/certification/certificate/e1d6753b-c3ea-4047-94a7-58efd1a46db9)
+[![Sal2](https://img.shields.io/badge/THM-SAL2-green)](https://www.credly.com/badges/14c70810-ae17-41f1-b6ee-36fc762ab531)
 Full cert list: [CourseraCertifications](https://github.com/TannerHollaway/CourseraCertifications)
 
 ---
