@@ -37,6 +37,9 @@ Practiced full IR workflow — detection, triage, containment, eradication — u
 ### [Active Directory Lab](https://github.com/TannerHollaway/ActiveDirectoryLab)
 Stood up a full AD environment from scratch. Domain controllers, users, group policy, the works.
 
+### [Detection As Code](https://github.com/TannerHollaway/detection-as-code)
+Creating a working, tested, multi-platform detection system with a documented build and real proof it catches attacks
+
 ---
 
 ##  Tools & Skills
