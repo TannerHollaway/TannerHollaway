@@ -19,6 +19,9 @@ I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a l
 
 Replacing my home router with opnsense, setting up multiple VLANs, setting up an AD domain. 
 
+### [Detection As Code](https://github.com/TannerHollaway/detection-as-code)
+Creating a working, tested, multi-platform detection system with a documented build and real proof it catches attacks
+
 ### [Help Desk Labs](https://github.com/TannerHollaway/HelpDeskLabs)
 Using servicedesk-simulator to practise responding to tickets and respond to incidents. 
 
@@ -37,8 +40,6 @@ Practiced full IR workflow — detection, triage, containment, eradication — u
 ### [Active Directory Lab](https://github.com/TannerHollaway/ActiveDirectoryLab)
 Stood up a full AD environment from scratch. Domain controllers, users, group policy, the works.
 
-### [Detection As Code](https://github.com/TannerHollaway/detection-as-code)
-Creating a working, tested, multi-platform detection system with a documented build and real proof it catches attacks
 
 ---
 
