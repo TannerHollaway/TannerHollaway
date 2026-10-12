@@ -22,6 +22,9 @@ Replacing my home router with opnsense, setting up multiple VLANs, setting up an
 ### [Detection As Code](https://github.com/TannerHollaway/detection-as-code)
 Creating a working, tested, multi-platform detection system with a documented build and real proof it catches attacks
 
+### [Splunk SOC Lab](https://github.com/TannerHollaway/Setting-Up-Splunk-and-Simulating-attacks
+Ingesting logs, simulating attacks, and performing detection/log review from my Active directory environment
+
 ### [Sentinel SOC Lab](https://github.com/TannerHollaway/sentinel-soc-lab)
 Extending my on-prem Active Directory lab into Microsoft's cloud security stack.
 
