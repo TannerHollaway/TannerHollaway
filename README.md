@@ -27,7 +27,7 @@ I'm Dakota (legal name Tanner). I've completed a 6 month SOC analyst internships
   <a href="https://www.credly.com/badges/abe26ddb-fdce-4d0e-81cb-304966ec1087/public_url"><img alt="TryHackMe SAL1" height="28" src="https://img.shields.io/badge/TryHackMe-SAL1-212C42?style=flat-square&logo=tryhackme&logoColor=white"></a>
 </p>
 
-Studying for Blue Team Level 1 (BTL1).
+Studying for Blue Team Level 1 (BTL1) and Blue Team Level 2 (BTL2).
 
 ## Featured work
 
