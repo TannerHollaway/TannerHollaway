@@ -15,7 +15,7 @@ I'm a cybersecurity practitioner working toward a **SOC Analyst** role, with a l
 
 ##  Featured Projects
 
-### [My Home lab WIP](https://github.com/TannerHollaway/MyHomeLab)
+### [My Home lab](https://github.com/TannerHollaway/MyHomeLab)
 
 Replacing my home router with opnsense, setting up multiple VLANs, setting up an AD domain. 
 
